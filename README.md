@@ -35,3 +35,9 @@ A través del análisis, se identificaron 3 perfiles de comportamiento principal
 | **Básico** | Light User | ~2.3 hrs pantalla/día, bajo consumo de datos y batería. Usa el móvil para lo esencial. |
 | **Moderado** | Average User | ~6.0 hrs pantalla/día, ~1GB datos/día. Usuario estándar de redes y multimedia. |
 | **Intensivo** | Power User | **>10 hrs pantalla/día**, ~2GB datos/día. "Gamers" o usuarios con alta dependencia del dispositivo. |
+
+
+## Acotacion del semana3_Modelos_NoSupervisados_Taller_Singenero.ipynb 
+Ademas se identifico que exite una gran afectacion al modelo con el genero ya que esta diferenciado 
+con 1 y 0 por lo que al scalar las variables el modelo lo toma como opuestos por lo cual se realizo
+una opcion sin tomar en cuenta el genero
